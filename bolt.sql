@@ -2,7 +2,7 @@
 
 -- SQL Lesson 13: Inserting rows
 
-INSERT INTO movies VALUES ("Toy Story 4", "George", 2022, 81);
+INSERT INTO movies VALUES ("Toy Story 4", "Josh Cooley", 2019, 90);
 INSERT INTO boxoffice VALUES (4, 8.7, 340000000, 270000000);
 
 -- SQL Lesson 14: Updating rows
